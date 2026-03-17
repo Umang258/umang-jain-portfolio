@@ -1,0 +1,22 @@
+{
+  "name": "umang-jain-portfolio",
+  "version": "1.0.0",
+  "description": "Umang Jain's Full-Stack Developer Portfolio",
+  "private": true,
+  "scripts": {
+    "build": "echo 'Static site - no build required'",
+    "dev": "npx serve .",
+    "lint": "echo 'No linter configured'"
+  },
+  "keywords": [
+    "portfolio",
+    "web-developer",
+    "full-stack"
+  ],
+  "author": "Umang Jain",
+  "license": "MIT",
+  "dependencies": {
+    "@vercel/analytics": "^1.4.1"
+  },
+  "devDependencies": {}
+}
